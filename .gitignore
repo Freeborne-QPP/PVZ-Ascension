@@ -1,0 +1,59 @@
+# ---- Visual Studio build output ----
+[Bb]in/
+[Oo]bj/
+Release/
+Debug/
+x64/
+.vs/
+*.user
+*.suo
+*.VC.db
+*.VC.opendb
+*.VC.VC.opendb
+*.ipch
+*.iobj
+*.ipdb
+*.ilk
+*.pdb
+*.obj
+*.idb
+*.tlog
+*.lastbuildstate
+*.map
+*.cod
+*.exp
+*.lib
+*.dll
+*.exe
+
+# ---- Local debug / scratch files ----
+*.log
+*.bak
+*.bak_*
+*.backup*
+*.orig
+*.orig_*
+NUL
+nul
+*.tmp
+*.xcf
+
+# ---- NEVER commit the game itself or game assets ----
+PlantsVsZombies*/
+S6/
+*.reanim.compiled
+*.pak
+*.ogg
+*.ct
+
+# ---- PVZClass framework (MIT, not redistributed here) ----
+# Put the framework in ./pvzclass/ to build, but don't commit it.
+pvzclass/
+
+# ---- Local drafting area (license alternatives etc.) ----
+_license-alt/
+
+# ---- OS clutter ----
+Thumbs.db
+desktop.ini
+.DS_Store

@@ -1,0 +1,106 @@
+[
+ {
+  "ch": "0",
+  "adv": 9,
+  "dy": 4,
+  "file": "ExpFont16_30.png",
+  "w": 9,
+  "h": 14
+ },
+ {
+  "ch": "1",
+  "adv": 6,
+  "dy": 3,
+  "file": "ExpFont16_31.png",
+  "w": 6,
+  "h": 15
+ },
+ {
+  "ch": "2",
+  "adv": 9,
+  "dy": 3,
+  "file": "ExpFont16_32.png",
+  "w": 9,
+  "h": 15
+ },
+ {
+  "ch": "3",
+  "adv": 9,
+  "dy": 3,
+  "file": "ExpFont16_33.png",
+  "w": 9,
+  "h": 15
+ },
+ {
+  "ch": "4",
+  "adv": 10,
+  "dy": 3,
+  "file": "ExpFont16_34.png",
+  "w": 10,
+  "h": 15
+ },
+ {
+  "ch": "5",
+  "adv": 9,
+  "dy": 2,
+  "file": "ExpFont16_35.png",
+  "w": 9,
+  "h": 16
+ },
+ {
+  "ch": "6",
+  "adv": 9,
+  "dy": 3,
+  "file": "ExpFont16_36.png",
+  "w": 9,
+  "h": 15
+ },
+ {
+  "ch": "7",
+  "adv": 10,
+  "dy": 2,
+  "file": "ExpFont16_37.png",
+  "w": 10,
+  "h": 16
+ },
+ {
+  "ch": "8",
+  "adv": 9,
+  "dy": 3,
+  "file": "ExpFont16_38.png",
+  "w": 9,
+  "h": 15
+ },
+ {
+  "ch": "9",
+  "adv": 10,
+  "dy": 3,
+  "file": "ExpFont16_39.png",
+  "w": 9,
+  "h": 15
+ },
+ {
+  "ch": "L",
+  "adv": 8,
+  "dy": 3,
+  "file": "ExpFont16_4C.png",
+  "w": 7,
+  "h": 15
+ },
+ {
+  "ch": "v",
+  "adv": 10,
+  "dy": 7,
+  "file": "ExpFont16_76.png",
+  "w": 10,
+  "h": 11
+ },
+ {
+  "ch": ".",
+  "adv": 5,
+  "dy": 15,
+  "file": "ExpFont16_2E.png",
+  "w": 3,
+  "h": 3
+ }
+]

@@ -1,0 +1,19 @@
+# Normalize line endings: text files get LF in the repo,
+# but Windows-native project files keep CRLF on checkout.
+* text=auto
+
+*.bat     text eol=crlf
+*.cmd     text eol=crlf
+*.cpp     text eol=crlf
+*.h       text eol=crlf
+*.hpp     text eol=crlf
+*.vcxproj text eol=crlf
+*.filters text eol=crlf
+*.sln     text eol=crlf
+*.ini     text eol=crlf
+*.md      text eol=lf
+
+*.png     binary
+*.png     -text
+*.dll     binary
+*.lib     binary
